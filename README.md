@@ -1,7 +1,6 @@
 
-![5eKX](https://github.com/user-attachments/assets/5d201627-8b3c-4832-9f0d-64f725459914)
+![200-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2225c0a6-2ae7-412d-93a1-e755cbe82faa)
 <br/>
-
 ## Hey 👋, I'm Md Hamzah Khan!
 <a href='https://www.linkedin.com/in/md-hamzah-khan-ba2a93259/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/hamzahkhan602'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
