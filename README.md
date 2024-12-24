@@ -1,14 +1,16 @@
 ## Hey 👋, I'm Md Hamzah Khan!
 <a href='https://www.linkedin.com/in/md-hamzah-khan-ba2a93259/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/hamzahkhan602'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href="https:https://www.instagram.com/hamzah.khan__/">
+<a href="https://www.instagram.com/hamzah.khan__/">
   <img alt="Instagram" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/instagram.svg" height="18px"/>
 </a>
 
 
-https://www.instagram.com/hamzah.khan__/
-
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+💻✨ Passionate CSE Engineer | 🌟 Obsessed with uncovering insights from data! 📊🤖<br/>
+💡 Enthusiastic about Data Analytics, 🧠 Machine Learning, and 📈 Data Science!<br/>
+⚙️ Turning complex datasets into impactful solutions 🚀<br/>
+📚 Always learning, experimenting, and innovating 🛠️<br/>
+🎯 Ready to solve real-world challenges using the power of data! 🌍
 <br/>
 <br/>
 
@@ -16,14 +18,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🔭 &nbsp; I’m currently working on **End-to-End ML Project**
+- 🌱 &nbsp; I’m currently learning LLM; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hamzahk602?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/md-hamzah-khan-ba2a93259/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Ac0u9TL9z8gBDG3iV5xTIbG3AAG5UWa5/view?usp=share_link)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br>
