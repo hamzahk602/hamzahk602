@@ -31,6 +31,8 @@
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br>
+<br>
+<br>
 
 ### 🔨 Languages and Tools:
 
